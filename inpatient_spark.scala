@@ -50,5 +50,6 @@ object Main {
 
     inpatient_2.saveAsTextFile("/home/hadoop/Learnbay/Spark/usecase2")
 
-
+  }
+}
 
